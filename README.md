@@ -33,14 +33,20 @@ To see a demonstration of the Swipe store, please watch the following demo video
 ## Screenshots
 
 <div>
-    <img src="" alt="s1" width="200" />
-    <img src="" alt="s2" width="200" />
-   <img src="" alt="s3" width="200" />
+    <img src="![ss1](https://github.com/srj347/SwipeStore/assets/69077430/1c83609e-fc61-4fc7-9f7e-28cc2101f0d3)
+" alt="s1" width="200" />
+    <img src="![ss2](https://github.com/srj347/SwipeStore/assets/69077430/40e602dd-de07-4a72-b10d-94fdf3fc5713)
+" alt="s2" width="200" />
+   <img src="![ss3](https://github.com/srj347/SwipeStore/assets/69077430/7bed725a-a577-4272-b286-7641c716c128)
+" alt="s3" width="200" />
 </div>
 <div>
-    <img src="" alt="s4" width="200" />
-    <img src="" alt="s5" width="200" />
-    <img src="" alt="s6" width="200" />
+    <img src="![ss4](https://github.com/srj347/SwipeStore/assets/69077430/a38959cc-1ea7-4763-86d0-363db0d337b9)
+" alt="s4" width="200" />
+    <img src="![ss5](https://github.com/srj347/SwipeStore/assets/69077430/a75d8b26-8d00-415d-8e34-346e6dee1244)
+" alt="s5" width="200" />
+    <img src="![ss6](https://github.com/srj347/SwipeStore/assets/69077430/c8980532-ecf2-4a3e-9105-e5d474ae8414)
+" alt="s6" width="200" />
 </div>
 
 ## APK Download
