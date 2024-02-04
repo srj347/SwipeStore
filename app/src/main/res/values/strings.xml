@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SwipeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner_items">
+        <item>Select Product Type</item>
+        <item>Product</item>
+        <item>Service</item>
+        <item>Product type1</item>
+        <item>Product type2</item>
+    </string-array>
+
+    <string name="search">Search</string>
+    <string name="total">Total</string>
+    <string name="Rs">\u20B9</string>
+    <string name="toolbar_title_product_list">Products</string>
+    <string name="toolbar_title_product_create">Add</string>
+    <string name="toolbar_title_product_view">Product</string>
+    <string name="discard_changes">Discard Changes</string>
+    <string name="discard_detail_message">Are you sure want to discard the changes without saving?</string>
+    <string name="cancel_btn" translatable="false">Cancel</string>
+</resources>
